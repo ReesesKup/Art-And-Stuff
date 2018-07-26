@@ -14,7 +14,7 @@ header {
   padding: 30px;
   height: 70%;
   background-image: url ('https://images.unsplash.com/photo-1487525219605-eadb39ae229c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8c59f4f74f54caacd4233eb1404bb545&auto=format&fit=crop&w=682&q=80');
-  backround-size: cover;
-  backround-attachment: fixed;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
