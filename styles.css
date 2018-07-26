@@ -21,6 +21,7 @@ header {
 }
 H1 {
   text align: center;
+   border-top 5px solid black;
 }
 main {
   padding-top: 15px;
@@ -42,6 +43,6 @@ aside {
 }
   footer {
   grid-area: footer;
-  padding: 30px;
+  padding: 50px;
   background-color: #b2ad7f;
 }
