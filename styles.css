@@ -1,10 +1,10 @@
 body {
-  background-color: #3e4444;
+  background-color: #bdcebe;
   padding:30px;
 }
 nav {
- padding: 30px;
-  background-color: #405d27;
+ padding: 40px;
+  background-color: #3e4444;
   position: sticky;
   top: 0;
   text-shadow: 1px 1px 0 #444;
