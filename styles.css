@@ -1,7 +1,13 @@
 body {
+  padding:30px;
   background-color: #d6cbd3;
 }
 nav {
- padding
-  background-color: #b2b2b2
+ padding: 30px;
+  background-color: #b2b2b2;
+  position: sticky;
+  top: 0;
+  text-shadow: 1px 1px 0 #444;
+  color: white;
+}
 
